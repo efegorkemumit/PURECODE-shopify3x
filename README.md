@@ -2,7 +2,15 @@
 
 
 
-To use this repository for making Shopify themes, use the following command of Shopify CLI.
+Bu Proje Dosyası Youtube Videosu için hazırlanmıştır. Başlangıç dosyası olarak kullanılacaktır. 
+
+Abone Olup Destek Olabilirsiniz.
+
+www.efegorkemumit.com
+
+https://www.youtube.com/@EfeGorkemUmit
+
+
 ```sh
 shopify theme init [ NAME OF YOUR THEME ] --clone-url https://github.com/efegorkemumit/PURECODE-shopify3x
 ```
